@@ -1,0 +1,20 @@
+* {
+background-color: bisque;
+}
+body {
+   
+    font: 100%;
+    margin: 20px;
+    line-height: 26px;
+}
+* {
+    background-image: url("/flower.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+#top {
+    background-color: red;
+    color: #dbee06;
+    padding: 15px;
+}
